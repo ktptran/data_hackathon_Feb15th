@@ -2,7 +2,9 @@
 Data hackathon code for Feb 15th
 
 Seattle Crime Dataset                                             
-Dataset: https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy | View the Dataset Schema Here
+Dataset: https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy 
+
+View the Dataset Schema Here: https://docs.google.com/document/d/1qdbqK4bFzXDXNzYmkO_RUfM3CIKFEj5zYc8kXoHVt84/edit
 
 Task Category: Data Visualization, Data Analysis, and Machine Learning Modelling
 
@@ -16,5 +18,7 @@ Your task is to answer one or more of the following questions listed below:
 
 1) What formula would you use for a metric to rank the safety of each neighborhood for a student, a family with a young child below the age of 15, and an elderly person? What would be the ranking result when this formula is used for each category of people? 
 2) To what extent and accuracy can we predict the level of change in crime for a neighborhood?
-3) What unique statistics and patterns were you able to identify in Seattle’s crime? 
+3) What unique statistics and patterns were you able to identify in Seattle’s crime?
+
+Presentation link: https://docs.google.com/presentation/d/1YBOIRTzTn1tflaZso4DqE33Px_a1k9X2ftZOcnqBJdk/edit#slide=id.p
 
