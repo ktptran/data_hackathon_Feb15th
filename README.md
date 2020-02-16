@@ -3,6 +3,7 @@ Data hackathon code for Feb 15th
 
 Seattle Crime Dataset                                             
 Dataset: https://data.seattle.gov/Public-Safety/Call-Data/33kz-ixgy | View the Dataset Schema Here
+
 Task Category: Data Visualization, Data Analysis, and Machine Learning Modelling
 
 This data represents crime reported to the Seattle Police Department (SPD). Each row contains the record of a unique event where at least one criminal offense was reported by a member of the community or detected by an officer in the field. These data contain offenses and offense categorization coded to simulate the standard reported to the FBI under the National Incident-Based Reporting System (NIBRS) and used to generate a Uniform Crime Report (UCR) summary statistics.
