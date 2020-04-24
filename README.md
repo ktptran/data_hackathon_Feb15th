@@ -22,5 +22,5 @@ Your task is to answer one or more of the following questions listed below:
 
 Presentation link: https://docs.google.com/presentation/d/1YBOIRTzTn1tflaZso4DqE33Px_a1k9X2ftZOcnqBJdk/edit#slide=id.p
 
-![DubsTech DataThon Picture][https://github.com/ktptran/data_hackathon_Feb15th/blob/master/DubsTech%20DataThon.jpg]
+![DubsTech DataThon Picture][https://github.com/ktptran/data_hackathon_Feb15th/blob/master/DubsTech%20DataThon.jpg?raw=true]
 
