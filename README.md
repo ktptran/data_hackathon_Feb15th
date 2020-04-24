@@ -1,4 +1,4 @@
-# data_hackathon_Feb15th
+# DubsTech Data Hackathon
 Data hackathon code for Feb 15th
 
 Seattle Crime Dataset                                             
